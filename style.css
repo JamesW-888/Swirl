@@ -1,0 +1,23 @@
+.montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+* {
+    background-color: blanchedalmond
+
+}
+
+body {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
